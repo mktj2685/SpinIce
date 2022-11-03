@@ -5,6 +5,16 @@
 
 Implementation Monte-Carlo simulation of 2D square lattice spin ice model.
 
+## Introduction
+
+### long-loop algorithm
+
+![](assets/long-loop.png)
+
+### short-loop algorithm
+
+![](assets/short-loop.png)
+
 ## Install
 
 ```
